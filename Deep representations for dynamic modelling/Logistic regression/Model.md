@@ -63,7 +63,7 @@ significant_vars_str <- paste(significant_vars$Variable, " (OR=", round(signific
 ```
 
 
-#Prediction k-fold cross-validation
+# Prediction k-fold cross-validation
 
 ```{r}
 library(pROC)
