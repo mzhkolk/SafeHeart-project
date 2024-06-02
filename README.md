@@ -4,4 +4,11 @@ Patients with an implantable cardioverter-defibrillator (ICD) are at a high risk
 
 SafeHeart is the first study to prospectively collect a multimodal data set to construct a personalised prediction engine for SCD.
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8890037/
+Kolk MZH, Frodi DM, Andersen TO, Langford J, Diederichsen SZ, Svendsen JH, Tan HL, Knops RE, Tjong FVY. Accelerometer-assessed physical behavior and the association with clinical outcomes in implantable cardioverter-defibrillator recipients: A systematic review. Cardiovasc Digit Health J. 2021 Nov 24;3(1):46-55. doi: 10.1016/j.cvdhj.2021.11.006. PMID: 35265934; PMCID: PMC8890329.
+https://pubmed.ncbi.nlm.nih.gov/35265934/
+
+Frodi DM, Kolk MZH, Langford J, Andersen TO, Knops RE, Tan HL, Svendsen JH, Tjong FVY, Diederichsen SZ. Rationale and design of the SafeHeart study: Development and testing of a mHealth tool for the prediction of arrhythmic events and implantable cardioverter-defibrillator therapy. Cardiovasc Digit Health J. 2021 Oct 13;2(6 Suppl):S11-S20. doi: 10.1016/j.cvdhj.2021.10.002. PMID: 35265921; PMCID: PMC8890037.
+https://pubmed.ncbi.nlm.nih.gov/35265921/
+
+Kolk M, Frodi DM, Langford J, Meskers CJ, Andersen TO, Jacobsen PK, Risum N, Tan HL, Svendsen JH, Knops RE, Diederichsen SZ, Tjong F. Behavioural digital biomarkers enable real-time monitoring of patient-reported outcomes: a substudy of the multicenter, prospective observational SafeHeart study. Eur Heart J Qual Care Clin Outcomes. 2023 Dec 6:qcad069. doi: 10.1093/ehjqcco/qcad069. Epub ahead of print. PMID: 38059857.
+https://pubmed.ncbi.nlm.nih.gov/38059857/
