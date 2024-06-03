@@ -4,7 +4,7 @@ Patients with an implantable cardioverter-defibrillator (ICD) are at a high risk
 
 SafeHeart is the first study to prospectively collect a multimodal data set to construct a personalised prediction engine for SCD.
 
-![image](https://github.com/mzhkolk/SafeHeart-project/assets/72930961/3bad2690-1856-4268-a425-a023c213b188)
+![image](https://github.com/mzhkolk/SafeHeart-project/assets/72930961/bc4fbc23-f035-4232-8963-fa0b630b9898)
 
 Kolk MZH, Frodi DM, Andersen TO, Langford J, Diederichsen SZ, Svendsen JH, Tan HL, Knops RE, Tjong FVY. Accelerometer-assessed physical behavior and the association with clinical outcomes in implantable cardioverter-defibrillator recipients: A systematic review. Cardiovasc Digit Health J. 2021 Nov 24;3(1):46-55. doi: 10.1016/j.cvdhj.2021.11.006. PMID: 35265934; PMCID: PMC8890329.
 https://pubmed.ncbi.nlm.nih.gov/35265934/
